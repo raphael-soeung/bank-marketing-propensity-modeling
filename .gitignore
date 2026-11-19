@@ -1,0 +1,15 @@
+# Raw datasets (auto-downloaded via R/data_loader.R)
+data/*.csv
+data/*.zip
+!data/.gitkeep
+
+# R session and cache artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+Rplots.pdf
+
+# OS artifacts
+.DS_Store
+Thumbs.db
